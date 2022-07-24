@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div>
+  <a href="https://github.com/Peng1104">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peng1104&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Peng1104' GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peng1104&layout=compact&theme=github_dark"/>
+</div>
+
 <!--
 **Peng1104/Peng1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
