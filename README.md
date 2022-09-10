@@ -1,22 +1,18 @@
-### Hi there 👋
+## :wave: Hello!
 
-<div>
-  <a href="https://github.com/Peng1104">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peng1104&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Peng1104' GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peng1104&layout=compact&theme=github_dark"/>
-</div>
+I'm **Peng1104**, a developer and college student from Brazil.
 
-<!--
-**Peng1104/Peng1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :mortar_board: Studying Computer Engineering
+- :sparkles: Check out [my website](https://peng1104.net)
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=arduino,bots,discord,git,github,java,lua,matlab,maven,mongodb,mysql,nginx,php,powershell,py,raspberrypi,regex,ros,sqlite,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## :computer: Stats
+
+[![Peng1104' GitHub stats](https://github-readme-stats.vercel.app/api?username=Peng1104&show_icons=true&layout=compact&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Peng1104' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peng1104&show_icons=true&layout=compact&theme=github_dark&count_private=true)
+
+## :mailbox: Contact
+
+- :incoming_envelope: Email - [admin@peng1104.net](mailto:admin@peng1104.net)
