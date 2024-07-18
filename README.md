@@ -41,11 +41,6 @@
 ## Others Skills
 ![](https://skillicons.dev/icons?i=regex,docker,discord,bots,aws,bash,powershell,raspberrypi,cloudflare,cmake,gcp,heroku,sublime)
 
-## :computer: Stats
-
-[![Peng1104' GitHub stats](https://github-readme-stats.vercel.app/api?username=Peng1104&show_icons=true&layout=compact&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![Peng1104' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peng1104&show_icons=true&layout=compact&theme=github_dark&count_private=true)
-
 ## :mailbox: Contact
 
 - :incoming_envelope: Email - [admin@peng1104.net](mailto:admin@peng1104.net)
