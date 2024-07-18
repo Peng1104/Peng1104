@@ -1,12 +1,45 @@
-## :wave: Hello!
+## :wave: Wassup, I'm Lucas
+- :mortar_board: Studying Computer Engineering @ Insper
+- :sparkles: Check out [my website](https://repo.peng1104.net)
+- I'm a Java/Backend Developer.
+- CTO @GladMC
+- Senior Dev @StarDix
+- Now I'm Director of Software Engineer of Computy Tecnologia LTDA
+- Yes, all my repositories as private 🔒
 
-I'm **Peng1104**, a developer and college student from Brazil.
+##
+<div>
+  <a href="https://dc.gladmc.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:admin@peng1104.net"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-- :mortar_board: Studying Computer Engineering
-- :sparkles: Check out [my website](https://peng1104.net)
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,bots,discord,git,github,java,lua,matlab,maven,mongodb,mysql,nginx,php,powershell,py,raspberrypi,regex,ros,sqlite,vscode)](https://skillicons.dev)
-
+## Languages Skills
+![](https://skillicons.dev/icons?i=kotlin,java,ts,js,php,rust,lua,cs,cpp,c,python,r,dart)
+## Libraries Skills
+![](https://skillicons.dev/icons?i=react,nodejs,django,fastapi,opencv)
+## Frameworks Skills
+![](https://skillicons.dev/icons?i=dotnet,nextjs,wordpress,flutter,matlab,ros,sklearn,tensorflow,terraform)
+## HTTP Servers Skills
+![](https://skillicons.dev/icons?i=nginx,maven)
+## Dependency Manager Skills
+![](https://skillicons.dev/icons?i=gradle,maven,npm,pnpm,yarn)
+## Database Skills
+![](https://skillicons.dev/icons?i=sqlite,postgres,mysql,redis,mongo,firebase)
+## ORM Skills
+![](https://skillicons.dev/icons?i=anaconda,hibernate)
+## Website Skills
+![](https://skillicons.dev/icons?i=html,css)
+## VCS Skills
+![](https://skillicons.dev/icons?i=git,github,githubactions)
+## IDE Skills
+![](https://skillicons.dev/icons?i=idea,vscode,eclipse,visualstudio,androidstudio)
+## OS Skills
+![](https://skillicons.dev/icons?i=linux,ubuntu,arch,centos)
+## GameDev Skills
+![](https://skillicons.dev/icons?i=unity,unreal)
+## AudioVisual Skills
+![](https://skillicons.dev/icons?i=pr,ae,ps)
+## Others Skills
+![](https://skillicons.dev/icons?i=regex,docker,discord,bots,aws,bash,powershell,raspberrypi,cloudflare,cmake,gcp,heroku,sublime)
 
 ## :computer: Stats
 
